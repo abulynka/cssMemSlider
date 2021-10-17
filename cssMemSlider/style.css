@@ -181,6 +181,10 @@ html, body {
     background-color: #ffffff;
 }
 
+.slider__circle:active {
+    opacity: 0.5;
+}
+
 .slider__slide {
     width: calc(100% / 4);
     padding: 0;
